@@ -1,23 +1,3 @@
-import React, { Component } from 'react'  
-import {  
-    View,WebView,StyleSheet,AppRegistry  
-} from 'react-native'  
-  
-export default class ActivityIndicatorDemo extends Component {  
-    render() {  
-        return (  
-        <View style = {styles.container}>  
-            <WebView  
-                source = {{ uri:'http://www.owambestyles.com' }}  
-            />  
-        </View>  
-        )  
-    }  
-}  
-const styles = StyleSheet.create({  
-    container: {  
-        flex: 1,  
-    }  
-})  
-  
-AppRegistry.registerComponent('App', () => ActivityIndicatorDemo)  
+version https://git-lfs.github.com/spec/v1
+oid sha256:8507148ad572edba13a9f199862218c6168d7e3e41d8d6925ae5c601a8f39523
+size 575
