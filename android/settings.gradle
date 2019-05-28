@@ -1,0 +1,3 @@
+rootProject.name = 'owambereactproj'
+
+include ':app'
